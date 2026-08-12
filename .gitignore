@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Generator output (regenerate with the gen_*.py scripts; prebuilt frames live in player/anim/)
+generate/out/
+
+# OS cruft
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+# Normalize text to LF; never touch binaries (frame data / images).
+* text=auto eol=lf
+*.bin binary
+*.png binary
+*.gif binary

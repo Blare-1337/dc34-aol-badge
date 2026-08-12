@@ -1,0 +1,2 @@
+# Frame generators need only Pillow.
+Pillow>=9.0
